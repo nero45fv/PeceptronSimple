@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\bin\Debug\PeceptronSimple.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\bin\Debug\PeceptronSimple.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\bin\Debug\PeceptronSimple.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\obj\Debug\PeceptronSimple.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\obj\Debug\PeceptronSimple.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\libreria\PeceptronSimple\PeceptronSimple\obj\Debug\PeceptronSimple.pdb
